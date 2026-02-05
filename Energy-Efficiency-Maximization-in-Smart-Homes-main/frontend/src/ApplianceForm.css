@@ -1,0 +1,24 @@
+/* ApplianceForm.css */
+/* .appliance-form {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+  } */
+  
+  h3 {
+    color: #4a90e2;
+    margin-bottom: 10px;
+  }
+  
+  
+  select {
+    /* width: 100%; */
+    padding: 8px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 10px; */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  

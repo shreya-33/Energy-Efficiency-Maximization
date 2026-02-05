@@ -1,0 +1,17 @@
+/* NumberOfAppliancesForm.css */
+.number-of-appliances-form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #5a5a5a;
+  }
+  
+  input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
